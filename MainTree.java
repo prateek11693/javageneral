@@ -13,6 +13,9 @@ public class MainTree {
 		tree.insert(10);
 		tree.insert(6);
 		tree.insert(8);
+		System.out.println(tree.find(8));
+		System.out.println(tree.find(23));
+
 
 	}
 
